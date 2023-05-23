@@ -1,3 +1,8 @@
+康康影视,#genre#
+抖音搜索,http://epg.112114.xyz/douyu/8901218
+千方百纪,http://epg.112114.xyz/douyu/8759139
+
+
 央视频道,#genre#
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV-1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8

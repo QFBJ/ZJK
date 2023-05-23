@@ -2,8 +2,6 @@
 
 "sites":[{"key":"豆瓣","name":"抖音┃千方百纪","type":3,"api":"./drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 
-  {"key":"本地","name":"本地┃本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
-
   {"key":"爱奇异","name":"官方┃爱奇艺","type":3,"api":"./drpy2.min.js","ext":"./js/aiqiyi.js"},
 
   {"key":"优酷","name":"官方┃优酷视频","type":3,"api":"./drpy2.min.js","ext":"./js/youku.js"},
@@ -19,16 +17,22 @@
   {"key":"py_xigua","name":"官方┃西瓜视频","type":3,"api":"py_xigua","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/py_xigua.py"},
 
   {"key":"py_cctv","name":"官方┃CCTV","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
+  
+    {"key":"csp_Yj1211","name":"直播┃️在线直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
 
-  {"key":"玩偶哥哥","name":"网盘┃玩偶哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wanou.json"},
 
-  {"key":"阿里云盘网","name":"网盘┃云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/aliyunpan.json"},
+  {"key":"虎牙直播","name":"直播┃虎牙直播","type":3,"api":"./drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/huyazhibo.js"},
 
-  {"key":"4KHDR","name":"网盘┃4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
+  
+  {"key":"哔哩直播","name":"直播┃️哔哩直播","type":3,"api":"./drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/blzb.js"},
 
-  {"key":"布雷蓝光","name":"网盘┃布雷影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/bulei.json"},
+  {"key":"csp_XYQBiu_斗鱼","name":"直播┃斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/douyu.json"},
 
-  {"key":"酷影蓝光","name":"精选┃酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
+
+
+//  {"key":"布雷蓝光","name":"网盘┃布雷影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/bulei.json"},
+
+//  {"key":"酷影蓝光","name":"精选┃酷影蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 
   {"key":"多米蓝光","name":"精选┃多米蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
@@ -74,7 +78,7 @@
 
   {"key":"csp_Bdys","name":"精选┃️哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
-  {"key":"👨‍🌾宝仙HD","name":"精选┃‍🌾宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/baoxian.json"},
+  {"key":"👨‍🌾宝仙HD","name":"精选┃‍宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/baoxian.json"},
 
   {"key":"饭团影视","name":"精选┃饭团影视","type":3,"api":"./drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/fantuan.js"},
 
@@ -100,7 +104,7 @@
 
   {"key":"可乐","name":"精选┃可乐影视","type":3,"api":"./drpy2.min.js","ext":"./js/cokemv.js"},
 
-  {"key":"二次萌","name":"🏠二次萌","type":3,"api":"./drpy2.min.js","ext":"./js/ercimeng.js"},
+  {"key":"二次萌","name":"精选┃二次萌","type":3,"api":"./drpy2.min.js","ext":"./js/ercimeng.js"},
 
   {"key":"csp_Nkdy","name":"精选┃南柯电影","type":3,"api":"./drpy2.min.js","ext":"./js/nktv.js"},
 
@@ -161,6 +165,13 @@
   {"key":"盘搜","name":"网盘┃盘搜网盘","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
   {"key":"UP云搜","name":"网盘┃️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  
+    {"key":"玩偶哥哥","name":"网盘┃玩偶哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wanou.json"},
+
+  {"key":"阿里云盘网","name":"网盘┃云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/aliyunpan.json"},
+
+  {"key":"4KHDR","name":"网盘┃4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
+
 
   {"key":"找资源","name":"网盘┃找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt$$$yunshuche$$$11223344"},
 
@@ -195,18 +206,15 @@
   {"key":"88看球","name":"足球┃88看球","type":3,"api":"./drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/88kanqiu.js"},
 
   {"key":"JRKAN直播","name":"足球┃JRKAN直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/jrkan.json"},
-
-  {"key":"虎牙直播","name":"直播┃虎牙直播","type":3,"api":"./drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/huyazhibo.js"},
-
-  {"key":"csp_Yj1211","name":"直播┃️在线直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
-
-  {"key":"哔哩直播","name":"直播┃️哔哩直播","type":3,"api":"./drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/blzb.js"},
-
-  {"key":"csp_XYQBiu_斗鱼","name":"直播┃斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/douyu.json"},
+  
 
   {"key":"csp_xpath_kuqimv","name":"音乐┃酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/kuqimv.json"},
 
-  {"key":"csp_xpath_A33","name":"音乐┃MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mtv.json"}],
+  {"key":"csp_xpath_A33","name":"音乐┃MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mtv.json"},
+  
+   {"key":"本地","name":"本地┃本地视频","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0}
+
+],
   
   "parses":[{"name":"千","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
