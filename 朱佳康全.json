@@ -154,32 +154,32 @@
 
   {"key":"Ysj","name":"动漫┃异世界","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yishijie.json"},
 
-//  {"key":"csp_AList","name":"网盘┃AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"./json/Alist.json"},
+  {"key":"csp_AList","name":"网盘┃AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"./json/Alist.json"},
 
-//  {"key":"纸条","name":"网盘┃纸条搜索","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"纸条","name":"网盘┃纸条搜索","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
- // {"key":"阿里云盘","name":"网盘┃阿里云盘","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"阿里云盘","name":"网盘┃阿里云盘","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
-//  {"key":"易搜","name":"网盘┃易搜网盘","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"易搜","name":"网盘┃易搜网盘","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
- // {"key":"盘搜","name":"网盘┃盘搜网盘","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"盘搜","name":"网盘┃盘搜网盘","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
-//  {"key":"UP云搜","name":"网盘┃️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"UP云搜","name":"网盘┃️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
   
- //   {"key":"玩偶哥哥","name":"网盘┃玩偶哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wanou.json"},
+    {"key":"玩偶哥哥","name":"网盘┃玩偶哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wanou.json"},
 
- // {"key":"阿里云盘网","name":"网盘┃云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/aliyunpan.json"},
+  {"key":"阿里云盘网","name":"网盘┃云盘网","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/aliyunpan.json"},
 
-//  {"key":"4KHDR","name":"网盘┃4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
+  {"key":"4KHDR","name":"网盘┃4KHDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
 
 
-//  {"key":"找资源","name":"网盘┃找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt$$$yunshuche$$$11223344"},
+  {"key":"找资源","name":"网盘┃找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt$$$yunshuche$$$11223344"},
 
- // {"key":"网盘搜索","name":"网盘┃网盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"网盘搜索","name":"网盘┃网盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
-//  {"key":"push_agent","name":"网盘┃网盘推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"push_agent","name":"网盘┃网盘推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
-//  {"key":"土狗","name":"搜索┃土狗搜索","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
+  {"key":"土狗","name":"搜索┃土狗搜索","type":3,"api":"csp_TuGou","searchable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/本地仓/token.txt"},
 
   {"key":"兔小贝","name":"儿童┃兔小贝","type":3,"api":"./drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/tuxiaobei.js"},
 
@@ -187,7 +187,7 @@
 
   {"key":"学外语","name":"儿童┃学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/waiyu.json"},
 
-//  {"key":"软件教程","name":"儿童┃软件教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jiaocheng.json"},
+  {"key":"软件教程","name":"儿童┃软件教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jiaocheng.json"},
 
   {"key":"哔哩哔哩","name":"合集┃哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Bili.json"},
 
@@ -205,7 +205,7 @@
 
   {"key":"88看球","name":"足球┃88看球","type":3,"api":"./drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/88kanqiu.js"},
 
-//  {"key":"JRKAN直播","name":"足球┃JRKAN直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/jrkan.json"},
+  {"key":"JRKAN直播","name":"足球┃JRKAN直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/jrkan.json"},
   
 
   {"key":"csp_xpath_kuqimv","name":"音乐┃酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/kuqimv.json"},
